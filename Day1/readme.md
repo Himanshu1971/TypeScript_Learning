@@ -39,7 +39,7 @@ tsc Hello.ts
 ```
 
 
-Notes: This compile the typescript and create a .js extention file in same folder.
+Notes: This compile the Typescript and create a .js extension file in same folder.
 
 ### To run Compile file we use:
 
@@ -52,10 +52,10 @@ node Hello.js
 ```bash
 npm install -g tsx
 ```
-Notes: tsx can run typescript code without compiling.
+Notes: tsx can run TypeScript code without compiling.
 For example:
 ```bash
 tsx Hello.ts
 ```
 ## Next
-- Basics of Typescript
+- Basics of TypeScript
