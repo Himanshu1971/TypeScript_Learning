@@ -1,4 +1,4 @@
-# Day X: Installation and Setup
+# Day 1: Installation and Setup
 
 **Date:** 01/10/2026
 **Time spent:** 30 mins
